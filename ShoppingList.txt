@@ -5,3 +5,5 @@ Cheerys
 Butter
 Cheese
 Cracker
+Paper
+Pen
